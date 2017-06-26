@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="style/style_of_labels.css">
+</head>
+<body>
+    <p>Раскажите историю о похищении вас космическими пришельцами</p>
+    <form action="report.php" method="post">
+        <label for="firstname">Имя:</label>
+        <input type="text" id="firstname" name="firstname"/><br/>
+        <label for="lastname">Фамилия:</label>
+        <input type="text" id="lastname" name="lastname"/><br/>
+        <label for="email">Ваш адрес электоронной почты:</label>
+        <input type="email" id="email" name="email"/><br/>
+        <label for="whenithappend">Когда это произошло?</label>
+        <input type="text" id="whenithappend" name="whenithappend"/><br/>
+        <label for="howlong">Как долго вы отсутствували?</label>
+        <input type="text" id="howlong" name="howlong"/><br/>
+        <label for="howmany">Сколько их было?</label>
+        <input type="number" id="howmany" name="howmany"/><br/>
+        <label for="aliendescription">Опешите их:</label>
+        <input type="text" id="aliendescription" name="aliendescription"/><br/>
+        <label for="whattheydid">Что они делали?</label>
+        <input type="text" id="whattheydid" name="whattheydid"/><br/>
+        <label for="fangspotted">Видели ли вы мою собаку Фэнга?</label>
+        Да <input type="radio" id="fangspotted" name="fangspoted" value="yes"/>
+        Нет <input type="radio" id="fangspotted" name="fangspoted" value="no"/><br/>
+        <img src="http://www.sonarium.ru/wp-content/uploads/2013/07/sobaka-400x300.jpeg" width="200" height="150" alt="Моя похищенная собака Фжнг.">
+        <label for="other">Дополнительная информация:</label>
+        <textarea id="other" name="other"></textarea><br/>
+        <input type="submit" value="Сообщение о похищении" name="submit"/>
+    </form>
+</body>
+</html>
