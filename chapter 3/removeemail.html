@@ -9,12 +9,11 @@
 <body>
 <img src="css/blankface.jpg" width="161" height="350" alt="" style="float:right"/>
 <img name="elvislogo" src="css/elvislogo.gif" width="229" height="32" border="0" alt="Make Me Elvis"/>
-    <form method="post" action="sendeamail.php">
-        <label for="subject">Тема електронного письма:</label><br/>
-        <input type="text" id="subject" name="subject"/><br/>
-        <label for="elvismail">Содержание письма:</label><br/>
-        <textarea id="elvismail" name="elvismail" rows="7" cols="64"></textarea><br/>
-        <input type="submit" name="submit" value="Отправить"/>
-    </form>
+<p>Введите адрес електронной почты для удаления</p><br/>
+<form action="removeemail.php" method="post">
+    <label for="email">Адрес электронной почты:</label><br/>
+    <input type="text" id="email" name="email"/><br/>
+    <input type="submit" name="submit" value="Удалить"/>
+</form>
 </body>
 </html>

@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4df071c-e98e-4029-93f1-c15e1d4d0102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter 3/addemail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter 3/sendeamail.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/chapter 1-2/report.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/report.php" afterPath="$PROJECT_DIR$/chapter 1-2/report.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/style_of_labels.css" afterPath="$PROJECT_DIR$/chapter 1-2/style/style_of_labels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter 3/removeemail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter 3/removeemail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter 3/addemail.html" afterPath="$PROJECT_DIR$/chapter 3/addemail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter 3/sendeamail.php" afterPath="$PROJECT_DIR$/chapter 3/sendeamail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter 3/sendemail.html" afterPath="$PROJECT_DIR$/chapter 3/sendemail.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="addemail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 3/addemail.html">
+      <file leaf-file-name="removeemail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 3/removeemail.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -34,33 +34,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="report.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 1-2/report.php">
+      <file leaf-file-name="addemail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 3/addemail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="10" column="102" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="102" />
               <folding>
-                <marker date="1498771722495" expanded="true" signature="1687:1987" ph="INSERT INTO aliens_abduction... " />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendemail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 3/sendemail.html">
+      <file leaf-file-name="removeemail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter 3/removeemail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <marker date="1499195393277" expanded="true" signature="199:250" ph="SELECT email... email_list" />
+                <marker date="1499195393277" expanded="true" signature="211:250" ph="DELETE FROM " />
+                <marker date="1499195393277" expanded="true" signature="372:410" ph="DELETE FROM " />
+                <marker date="1499195393277" expanded="true" signature="372:411" ph="DELETE FROM " />
+                <marker date="1499195393277" expanded="true" signature="372:417" ph="DELETE FROM " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addemail.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addemail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter 3/addemail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <marker date="1499034894402" expanded="true" signature="297:397" ph="INSERT INTO email_list... " />
               </folding>
@@ -71,9 +77,12 @@
       <file leaf-file-name="sendeamail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter 3/sendeamail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <marker date="1499194365764" expanded="true" signature="263:273" ph="SELECT first... " />
+                <marker date="1499194365764" expanded="true" signature="263:287" ph="SELECT * FRO... email_list" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,9 +108,12 @@
         <option value="$PROJECT_DIR$/report.html" />
         <option value="$PROJECT_DIR$/report.php" />
         <option value="$PROJECT_DIR$/chapter 1-2/report.html" />
-        <option value="$PROJECT_DIR$/chapter 3/sendemail.html" />
-        <option value="$PROJECT_DIR$/chapter 3/addemail.html" />
         <option value="$PROJECT_DIR$/chapter 3/addemail.php" />
+        <option value="$PROJECT_DIR$/chapter 3/sendemail.html" />
+        <option value="$PROJECT_DIR$/chapter 3/removeemail.html" />
+        <option value="$PROJECT_DIR$/chapter 3/addemail.html" />
+        <option value="$PROJECT_DIR$/chapter 3/sendeamail.php" />
+        <option value="$PROJECT_DIR$/chapter 3/removeemail.php" />
       </list>
     </option>
   </component>
@@ -160,24 +172,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter 3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="chapter 1-2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -192,15 +186,15 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 3/addemail.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 3/removeemail.html" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\book\chapter 1-2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.addemail.html">
-    <configuration default="false" name="addemail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/book/chapter 3/addemail.html">
+  <component name="RunManager" selected="JavaScript Debug.removeemail.html">
+    <configuration default="false" name="removeemail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/book/chapter 3/removeemail.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -267,11 +261,11 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.wamp" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.addemail.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.removeemail.html" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.addemail.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.removeemail.html" />
       </list>
     </recent_temporary>
   </component>
@@ -290,19 +284,20 @@
       <workItem from="1498575448579" duration="1836000" />
       <workItem from="1498579289261" duration="4134000" />
       <workItem from="1498737788341" duration="5522000" />
-      <workItem from="1499030679557" duration="3417000" />
+      <workItem from="1499030679557" duration="9463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21021000" />
+    <option name="totallyTimeSpent" value="27067000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23590814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -313,7 +308,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -328,7 +322,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/chapter 3/sendeamail.php</url>
+          <line>21</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -478,22 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 1-2/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 3/sendeamail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter 3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -502,40 +488,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 3/addemail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 3/sendemail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter 1-2/report.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
             <marker date="1498771722495" expanded="true" signature="1687:1987" ph="INSERT INTO aliens_abduction... " />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 1-2/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3/sendemail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3/removeemail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3/sendeamail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1499194365764" expanded="true" signature="263:273" ph="SELECT first... " />
+            <marker date="1499194365764" expanded="true" signature="263:287" ph="SELECT * FRO... email_list" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter 3/addemail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="32" />
           <folding>
             <marker date="1499034894402" expanded="true" signature="297:397" ph="INSERT INTO email_list... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3/addemail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" column="102" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="102" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3/removeemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <marker date="1499195393277" expanded="true" signature="199:250" ph="SELECT email... email_list" />
+            <marker date="1499195393277" expanded="true" signature="211:250" ph="DELETE FROM " />
+            <marker date="1499195393277" expanded="true" signature="372:410" ph="DELETE FROM " />
+            <marker date="1499195393277" expanded="true" signature="372:411" ph="DELETE FROM " />
+            <marker date="1499195393277" expanded="true" signature="372:417" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
